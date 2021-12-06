@@ -10,3 +10,17 @@ To polecenie powie nam na jakim branch(gałąź) jesteśmy i czy
 mamy coś do commitowania
 
 ------------------------------------------------------
+
+Dodawanie do repozytorium danych
+git add . (dodaje do repo wszystko co zostało zmodyfikowane)
+git add nazwa_pliku (dodaje tylko ten jeden plik)
+
+--------------------------------------------------------
+
+Wstawiamy message do commita
+git commit -m "treść commita"
+
+---------------------------------------------------------
+git log - prezentuje wszystkie commity
+
+---------------------------------------------------------
