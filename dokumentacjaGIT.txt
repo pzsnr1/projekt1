@@ -1,0 +1,12 @@
+----------------------------------------------------
+Pobieranie projektu z github na komp. local
+git clone nazwa_repozytorium
+np.:
+git clone https://github.com/pzsnr1/projekt1.git
+-----------------------------------------------------
+
+git status - prezentuje stan pliku w git
+To polecenie powie nam na jakim branch(gałąź) jesteśmy i czy
+mamy coś do commitowania
+
+------------------------------------------------------
